@@ -1,2 +1,2 @@
-# majdlos28
-Homework
+# Homework
+Zde budu odevzdávat domácí úkoly.
