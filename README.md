@@ -1,2 +1,2 @@
 # Homework
-Zde budu odevzdávat domácí úkoly.
+V tomto repositáři budu odevzdávat domácí úkoly.
